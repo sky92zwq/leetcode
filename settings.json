@@ -1,0 +1,27 @@
+{
+    "http.proxy": "",
+    "http.proxyStrictSSL": false,
+    "http.proxySupport": "on",
+
+    "files.autoGuessEncoding": true,
+    "editor.renderWhitespace": "boundary",
+
+    "textmarker.defaultHighlightOpacity": 0.8,
+    "textmarker.enableWholeMatch": true,
+    "textmarker.highlightColors": [
+        "lightblue",
+        "goldenrod",
+        "magenta",
+        "darkolivegreen",
+        "slateblue",
+        "slategray",
+        "violet",
+        "blue",
+        "turquoise",
+        "gray",
+        "khaki",
+        "orange",
+        "salmon",
+        "seagreen"
+    ]
+}
