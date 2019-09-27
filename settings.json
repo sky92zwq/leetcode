@@ -6,10 +6,11 @@
     "files.autoGuessEncoding": true,
     "editor.renderWhitespace": "boundary",
 
+    "textmarker.autoSelectDistinctiveTextColor": true,
     "textmarker.defaultHighlightOpacity": 0.8,
     "textmarker.enableWholeMatch": true,
     "textmarker.highlightColors": [
-        "lightblue",
+        "turquoise",
         "goldenrod",
         "magenta",
         "darkolivegreen",
@@ -17,7 +18,7 @@
         "slategray",
         "violet",
         "blue",
-        "turquoise",
+        "lightblue",
         "gray",
         "khaki",
         "orange",
